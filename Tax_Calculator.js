@@ -1,5 +1,4 @@
 /*Next steps:
-* URGENT: REFACTOR income PARAMETERS and variables
 * Add National Insurance deductions for categories other than A.
 * Add pension % deduction
 * Add donations, investment, etc.
